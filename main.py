@@ -3,4 +3,4 @@ def to_print(name):
 
 
 if __name__ == '__main__':
-    to_print('Murr-Myau')
+    to_print('Murr-Myaff')
